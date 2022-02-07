@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "04cfb8227cd7eac6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5516ce244b2bd815",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Projects/Static assets/About.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5595033cf83809e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9678814812aa9e85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "024355cb44e06615",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "db271982ce12cc42",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6486c05397bbeed5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f201f21394546657",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64bb0c7679173be4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects/Static assets/About.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5516ce244b2bd815",
+  "lastOpenFiles": [
+    "Projects/Static assets/About.md",
+    "Projects/Static assets/1.mp4",
+    "Projects/Static assets/1.png",
+    "Static assets 95f11ef1ece3427a8aaab3f75275b440/截屏2022-02-07_下午8.56.57.png.md"
+  ]
+}
